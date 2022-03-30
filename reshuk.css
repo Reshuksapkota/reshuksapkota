@@ -1,0 +1,54 @@
+h1{
+	background: lightpink;
+	font-family: sans-serif;
+	font-weight: 400;
+	padding: 5px;
+	margin: 20px solid black;
+	
+
+}
+ ul li{
+	padding: 5px;
+	text-decoration: none;
+}
+h2{
+
+	font-family:sans-serif;
+	background: ;
+	color: yellowgreen;
+	margin-top: 10px;
+	margin: 10px solid black;
+}
+h3{
+	font-family:sans-serif;
+	background: yellowgreen;
+	color: black;
+	border: 30px solid yellowgreen;
+    
+
+
+}
+h4{
+	font-family: monospace;
+	background: black;
+	color: lightpink;
+
+}
+div img{
+	border: 5px solid lightpink;
+	border-radius: 5.5%;
+}
+a{
+	text-decoration: none;
+	padding: 5.50px;
+	color: lightpink;
+	text-shadow: transparent;
+}
+Button{
+	align-content: center;
+	color: yellowgreen;
+}
+p{
+	color: yellowgreen;
+	font-family: monospace;
+}
